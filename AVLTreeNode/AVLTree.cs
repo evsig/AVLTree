@@ -308,7 +308,7 @@ namespace AVLTreeNode
         public IEnumerator<T> InOrderTraversal()
         {
 
-            // рекурсивное перемищение по дереву
+            // рекурсивное перемещение по дереву
 
             if (Head != null) // существует ли корень дерева
             {

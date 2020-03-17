@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVLTreeNode", "AVLTreeNode.csproj", "{16AD33DA-C902-4FCC-83CE-5D2E55E68987}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLTreeNode.Tests", "C:\Users\User\Desktop\08_01_2020\AVLTree\AVLTree.Tests\AVLTreeNode.Tests.csproj", "{3B0AD1F8-43BD-4145-9D92-EE7059628F01}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{16AD33DA-C902-4FCC-83CE-5D2E55E68987}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16AD33DA-C902-4FCC-83CE-5D2E55E68987}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16AD33DA-C902-4FCC-83CE-5D2E55E68987}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B0AD1F8-43BD-4145-9D92-EE7059628F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B0AD1F8-43BD-4145-9D92-EE7059628F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B0AD1F8-43BD-4145-9D92-EE7059628F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B0AD1F8-43BD-4145-9D92-EE7059628F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
